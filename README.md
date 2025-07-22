@@ -1,5 +1,6 @@
 # Jo Collier  
 **Senior Frontend Developer** – Expert in Interactive Dashboards, Complex Tables & Visualizing Big Data into Accessible UI
+
 📍 Based in Spain (UTC+2) · UK Citizen · Remote-First  
 ✉️ jocollierengineering@gmail.com  
 🌐 github.com/jo-collier-engineering
@@ -9,7 +10,9 @@
 ## About Me  
 
 🎯 Focus: Frontend, TypeScript, A11Y, Develope Experience, frontend architecture
+
 ⚙️ Stack: React/Vue, Tailwind, Storybook, Playwright, GitHub Actions
+
 📈 Strengths: Design-to-code execution, data-heavy UIs, scalable design systems, a11y-first development, visual QA & DX
 
 Creative, test-driven senior frontend engineer with 5+ years’ experience delivering performant, accessible (WCAG AA) web applications. I specialize in building modular design systems, scalable dashboards, interactive tables, and high-impact data visualizations using React, Vue, TypeScript, and modern frontend tooling (Storybook, React, Vue.js, Tailwind, Playwright, CI/CD). I write semantic HTML, component-driven UIs, and testable code that scales — prioritizing user experience, performance, and maintainability.
@@ -70,7 +73,7 @@ I recently worked in ESG transforming vast, unstructured datasets from global co
 ## Availability  
 
 ✔️ Available for freelance contracts (remote only)  
-✔️ Based in Spain under the Beckham Law (Digital Nomad Visa)  
+✔️ Based in Spain 
 ✔️ Open to part-time or full-time freelance collaborations  
 
 ---
