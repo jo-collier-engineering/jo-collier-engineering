@@ -15,7 +15,7 @@
 
 📈 Strengths: Design-to-code execution, data-heavy UIs, scalable design systems, a11y-first development, visual QA & DX
 
-Creative, test-driven senior frontend engineer with 5+ years’ experience delivering performant, accessible (WCAG AA) web applications. I specialize in building modular design systems, scalable dashboards, interactive tables, and high-impact data visualizations using React, Vue, TypeScript, and modern frontend tooling (Storybook, React, Vue.js, Tailwind, Playwright, CI/CD). I write semantic HTML, component-driven UIs, and testable code that scales — prioritizing user experience, performance, and maintainability.
+Creative, test-driven senior frontend engineer with 5+ years’ experience delivering performant, accessible (WCAG AA) web applications. I specialize in building modular design systems, scalable dashboards, interactive tables, and high-impact data visualizations using React, Vue, TypeScript, and modern frontend tooling (Storybook, React, Vue.js, Tailwind, Playwright, CI/CD). I write semantic HTML, component-driven UIs, and testable code that scales; prioritizing user experience, performance, and maintainability.
 
 I recently worked in ESG transforming vast, unstructured datasets from global corporations into intuitive, scalable UI tools. With experience supporting platforms for 20,000+ facilities and millions of data points, I thrive in collaborative, fast-paced environments and love solving complex frontend problems with simplicity and elegance.
 
@@ -41,10 +41,10 @@ I recently worked in ESG transforming vast, unstructured datasets from global co
 - Built performant graphs, tables, and forecasting tools used by clients managing 20,000+ facilities and millions of data points  
 - Led the iterative development of a supply chain engagement tool, improving data transparency and boosting daily user engagement  
 - Collaborated cross-functionally to deliver pixel-perfect, accessible UIs that complied with strict ESG regulations like PACT  
-- Audited the platform for accessibility, delivered team-wide a11y training, and implemented AI guardrails to ensure long-term compliance  
+- Audited the platform for accessibility and delivered team-wide a11y documentation
 - Managed sprint planning and roadmap alignment; translated product requirements into user stories and delegated across the team  
 - Supported long-term engineering growth through mentoring, pair programming, and onboarding new developers  
-- Drove support readiness by writing documentation, playbooks, and incident response processes
+- Drove the support team set up by writing documentation, playbooks, and incident response processes
 
 ### 🎨 Global Freelancer Marketplace  
 **Software Engineer @ Twine (2020–2022)**  
@@ -72,8 +72,8 @@ I recently worked in ESG transforming vast, unstructured datasets from global co
 
 ## Availability  
 
-✔️ Available for freelance contracts (remote only)  
-✔️ Based in Spain 
+✔️ Available for freelance contracts (remote only) 
+
 ✔️ Open to part-time or full-time freelance collaborations  
 
 ---
