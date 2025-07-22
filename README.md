@@ -1,14 +1,18 @@
 # Jo Collier  
-**Senior Frontend Developer** – Data Visualizations, Dashboards & Tables  
+**Senior Frontend Developer** – Expert in Interactive Dashboards, Complex Tables & Visualizing Big Data into Accessible UI
 📍 Based in Spain (UTC+2) · UK Citizen · Remote-First  
 ✉️ jocollierengineering@gmail.com  
-🌐 github.com/yourhandle *(update once live)*  
+🌐 github.com/jo-collier-engineering
 
 ---
 
 ## About Me  
 
-Creative, test-driven senior software engineer with 5+ years of experience specializing in frontend development. I design and build accessible (AA-compliant), high-performance dashboards, tables, and visualizations using React/Vue, TypeScript, and modern tooling.
+🎯 Focus: Frontend, TypeScript, A11Y, Develope Experience, frontend architecture
+⚙️ Stack: React/Vue, Tailwind, Storybook, Playwright, GitHub Actions
+📈 Strengths: Design-to-code execution, data-heavy UIs, scalable design systems, a11y-first development, visual QA & DX
+
+Creative, test-driven senior frontend engineer with 5+ years’ experience delivering performant, accessible (WCAG AA) web applications. I specialize in building modular design systems, scalable dashboards, interactive tables, and high-impact data visualizations using React, Vue, TypeScript, and modern frontend tooling (Storybook, React, Vue.js, Tailwind, Playwright, CI/CD). I write semantic HTML, component-driven UIs, and testable code that scales — prioritizing user experience, performance, and maintainability.
 
 I recently worked in ESG transforming vast, unstructured datasets from global corporations into intuitive, scalable UI tools. With experience supporting platforms for 20,000+ facilities and millions of data points, I thrive in collaborative, fast-paced environments and love solving complex frontend problems with simplicity and elegance.
 
@@ -16,9 +20,8 @@ I recently worked in ESG transforming vast, unstructured datasets from global co
 
 ## Core Skills  
 
-- **Frameworks**: React, Vue, Next.js  
-- **Languages**: TypeScript, JavaScript, HTML, SASS, PHP  
-- **Visualization**: Highcharts, Chart.js, custom D3-style SVG/Canvas components  
+- **Frameworks**: React, Vue, Next.js, Ruby on Rails
+- **Languages**: TypeScript, JavaScript, HTML, SASS, PHP, Ruby
 - **Testing**: Jest, viTest, Cypress, Playwright, Storybook  
 - **Accessibility**: WCAG AA standards, semantic HTML, screen reader/keyboard support  
 - **Databases**: PostgreSQL, MySQL, MongoDB, DynamoDB  
