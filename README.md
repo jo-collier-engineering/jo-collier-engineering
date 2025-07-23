@@ -36,7 +36,7 @@ I recently worked in ESG transforming vast, unstructured datasets from global co
 ## Featured Projects  
 
 ### 🌍 ESG Data Visualization Platform  
-**Senior Fullstack Engineer @ Altruistiq (2022–2024)**  
+**Senior Fullstack Engineer @ Altruistiq (2022– Jul 2025)**  
 - Transformed large, disorganized datasets from global corporations into elegant, scalable data visualizations and dashboards  
 - Built performant graphs, tables, and forecasting tools used by clients managing 20,000+ facilities and millions of data points  
 - Led the iterative development of a supply chain engagement tool, improving data transparency and boosting daily user engagement  
